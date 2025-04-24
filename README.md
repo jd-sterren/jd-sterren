@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hello, I'm James!
 
-<!--
-**jd-sterren/jd-sterren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a current law enforcement analyst turned AI and data professional. With over a decade of experience in problem solving on the fly, pattern recognition, and high-pressure decision-making, I’ve transitioned into the world of Artificial Intelligence, data science, and automation with a strong foundation in Python, Excel, and machine learning. I've helped to develop a real-time crime center using automation, SQL, and connecting databases for an easier search method to help solve crimes from the simplest theft to violent homicides.
 
-Here are some ideas to get you started:
+I'm fascinated by how AI can be used to augment human insight, especially in fields like public safety, ethics, and even spaceflight (yes, I'm interested in companion AI for Mars missions).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### OSU Bootcamp Projects
+- [OSU Capstone – Conversational AI Chatbot](https://github.com/jd-sterren/osu-ml-final_project)  
+  Built a chatbot using NLP pipelines with intent classification and response generation.
+
+- [Stock Prediction with LSTM Networks](https://github.com/jd-sterren/osu-ml-OSU_Project2)  
+  Used historical price data to forecast trends using deep learning models in Keras.
+
+- [K-Means Clustering on Crime Data](https://github.com/jd-sterren/osu-ml-OSU_Project1)  
+  Applied unsupervised learning to segment incident data and visualize hot zones.
+
+---
+
+## Personal Projects
+- [Calls for Service Dashboard (Excel + Python)]()  
+  Dashboard for public safety metrics—automated with Python and visualized in Excel.
+
+- [Crypto Signal Analyzer]()  
+  An early exploration of pattern recognition and market signal analysis using indicators like RSI and MACD.
+
+- [AI Crime Summary Tool (NLP)]()  
+  NLP-based summarizer for police call logs using keyword extraction and named entity recognition.
+
+---
+
+## Future Ventures
+- Find remote work in data, AI, or security analytics with a focus on **mission-driven impact**
+- Build tools and systems that improve **decision-making and trust** in AI
+- Explore ethical frameworks for human-AI collaboration and emotional design in digital assistants
+
+---
