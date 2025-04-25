@@ -24,8 +24,8 @@ I'm fascinated by how AI can be used to augment human insight, especially in fie
 - [Calls for Service Dashboard (Excel + Python)]()  
   Dashboard for public safety metrics—automated with Python and visualized in Excel.
 
-- [Crypto Signal Analyzer]()  
-  An early exploration of pattern recognition and market signal analysis using indicators like RSI and MACD.
+- [Investing Signal Analyzer](https://github.com/jd-sterren/trading_investments)  
+  An early exploration of pattern recognition and market signal analysis using indicators like RSI and MACD with stock market and cryptocurrency.
 
 - [AI Crime Summary Tool (NLP)]()  
   NLP-based summarizer for police call logs using keyword extraction and named entity recognition.
