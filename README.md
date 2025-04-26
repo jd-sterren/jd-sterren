@@ -20,7 +20,7 @@ I'm fascinated by how AI can be used to augment human insight, especially in fie
 
 ---
 
-## Personal Projects
+## Personal Projects (Post OSU Bootcamp)
 - [Calls for Service Dashboard (Excel + Python)]()  
   Dashboard for public safety metrics—automated with Python and visualized in Excel.
 
