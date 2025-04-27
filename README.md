@@ -30,7 +30,7 @@ I'm fascinated by how AI can be used to augment human insight, especially in fie
 - [AI Crime Summary Tool (NLP)]()  
   NLP-based summarizer for police call logs using keyword extraction and named entity recognition.
 
-- [AI Companion Chatbot]()  
+- [AI Companion Chatbot](https://github.com/jd-sterren/vireya_companion)  
   AI-driven companion designed to foster emotional resilience, detect early signs of mental health decline, and support proactive wellness interventions through natural conversation and behavioral analysis.
 
 ---
