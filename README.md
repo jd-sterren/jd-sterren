@@ -21,8 +21,8 @@ I'm fascinated by how AI can be used to augment human insight, especially in fie
 ---
 
 ## Personal Projects (Post OSU Bootcamp)
-- [Calls for Service Dashboard (Excel + Python)]()  
-  Dashboard for public safety metrics—automated with Python and visualized in Excel.
+- [Incident Insight Matrix (Excel + Python)](https://github.com/jd-sterren/incident_insight_matrix)  
+  Dashboard for public safety metrics—automated with Python and visualized in Excel while using ML for predicting trends.
 
 - [Investing Signal Analyzer](https://github.com/jd-sterren/trading_investments)  
   An early exploration of pattern recognition and market signal analysis using indicators like RSI and MACD with stock market and cryptocurrency.
